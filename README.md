@@ -1,12 +1,7 @@
-your-clean-template-3
+TTATPuOT WP Template Fish, based on clean-template-3
 =================
 
-This is clean WordPress theme with minimal bootstrap3 html5 markup for fast development starting yours project on WordPress.
-
-Contain only the necessary and sufficient set of files and functionality.
-
-Suitable for those who often makes sites on WordPress and beginners to understand how it works.
-
-Donate - <a href="http://dontforget.pro/donate/" target="_blank">thanks dontforget.pro</a>
+All credits to <a href="https://github.com/saxap">saxap</a>. This is just my fish for bootstrap develop new templates.
 
 
+Donate author <a href="http://dontforget.pro/donate/" target="_blank">on dontforget.pro</a>

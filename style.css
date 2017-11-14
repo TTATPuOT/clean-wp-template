@@ -1,19 +1,19 @@
 /*   
-Theme Name: your-clean-template-3 (uncommented)
-Theme URI: https://github.com/saxap/clean-wp-template
-Version: 3.0
-Tags: clean, development, html5, bootstrap
-Description: Clean wordpress theme with minimal bootstrap3 markup for fast development starting
-Author: saxa:p
-Author URI: http://dontforget.pro
+Theme Name: Template_name
+Theme URI: https://github.com/TTATPuOT
+Version: 1.0
+Tags: html5, bootstrap, css3, jquery
+Description: description
+Author: TTATPuOT, saxa:p
+Author URI: https://patriotovsky.ru , http://dontforget.pro
 */
 
 
 @media (min-width: 979px) { 
-	ul.nav li.dropdown.show-on-hover:hover > ul.dropdown-menu {
+	ul.nav li.dropdown.show-on-hover:hover > ul.dropdown-menu { /* для раскрывания субменю по наведению */
 		display: block;
 	}
-	.comment-list .children {
+	.comment-list .children { /* для комментов */
 		padding: 0;
 		margin-left: 74px;
 		padding-bottom: 15px;
@@ -36,7 +36,7 @@ div.aligncenter {
 }
 
 .alignright {
-    float:right;
+    float: right;
     margin: 5px 0 20px 20px;
 }
 
